@@ -1,2 +1,2 @@
 ﻿# tiktok-lookup
-Shows such information as (Profile info, Account region)
+Show information such as (Profile info, Account region)
